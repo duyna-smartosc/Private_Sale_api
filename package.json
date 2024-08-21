@@ -1,0 +1,17 @@
+{
+  "name": "private_sale_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ethers_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.2",
+    "express": "^4.19.2"
+  }
+}
